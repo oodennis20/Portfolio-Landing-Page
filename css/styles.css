@@ -1,10 +1,10 @@
 h1 {
     text-align: left;
     color: #060505;
-    font-style: italic;
+    font-style: normal;
     font-family: 'Saira Stencil One', cursive;
     background-color: #8bc9c7;
-    background-size: 5px;
+    background-size: 10px;
     color: #060505;
 }
 img{
