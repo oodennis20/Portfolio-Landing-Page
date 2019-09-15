@@ -19,7 +19,7 @@ body{
 }
 div{
     text-align: center;
-    align-items: stretch;
+    align-items: flex-start;
     display: block;
     font-size: 25px;
 }
