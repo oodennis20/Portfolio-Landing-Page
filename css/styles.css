@@ -41,4 +41,6 @@ h2{
 }
 #real{
     font-family: 'Modak';
+    font-size-adjust: inherit;
+    font-size: 1em;
 }
