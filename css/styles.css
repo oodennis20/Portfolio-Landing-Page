@@ -8,8 +8,9 @@ h1 {
     color: #060505;
 }
 img{
-    width: 25%;
+    width: 28%;
     float: centre;
+    max-height: 225%;
 }
 body{
     background-image:
