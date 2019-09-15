@@ -37,5 +37,8 @@ p{
 h2{
     font-display: fallback;
     font-weight: 400;
-    font-family: 'Modak'
+    font-family: 'Modak';
+}
+#real{
+    font-family: 'Modak';
 }
