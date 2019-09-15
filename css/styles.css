@@ -1,0 +1,38 @@
+h1 {
+    text-align: left;
+    color: #060505;
+    font-style: italic;
+    font-family: 'Saira Stencil One', cursive;
+    background-color: #8bc9c7;
+    background-size: 5px;
+    color: #060505;
+}
+img{
+    width: 25%;
+    float: centre;
+}
+body{
+    background-image:
+    url('https://images.unsplash.com/photo-1566221422687-88c4140886c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80s://images.unsplash.com/photo-1568214379698-8aeb8c6c6ac8?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    text-align: center;
+    align-items: stretch;
+    display: block;
+    font-size: 25px;
+}
+p{
+   font-size: 25px;
+   font-family:
+}
+.mine{
+    font-size:25px;
+    color: #095452;
+}
+#home{
+    font-style: italic;
+    text-align: center;
+    font-size: 50px;
+}
