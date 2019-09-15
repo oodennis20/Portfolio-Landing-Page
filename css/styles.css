@@ -10,7 +10,6 @@ h1 {
 img{
     width: 28%;
     float: centre;
-    max-height: 225%;
 }
 body{
     background-image:
@@ -38,4 +37,5 @@ p{
 h2{
     font-display: fallback;
     font-weight: 400;
+    font-family: 'Modak'
 }
